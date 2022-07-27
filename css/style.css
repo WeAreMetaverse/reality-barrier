@@ -5141,7 +5141,7 @@ a.full_link{
 }
 @media(max-width: 768px){
 	.neoh_fn_hero .fn_title{
-		font-size: 50px;
+		font-size: 3vh;
 	}
 	/* RoadMap Single */
 	.neoh_fn_mosaic ul{
